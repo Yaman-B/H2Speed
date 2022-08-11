@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="H2Speed">
+        <wb-resource deploy-path="/" source-path="/SosyalBen"/>
+        <property name="context-root" value="H2Speed"/>
+    </wb-module>
+</project-modules>
